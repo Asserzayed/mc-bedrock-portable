@@ -12,7 +12,7 @@ Will probably make a dockerfile to fully create the env. when I have time. Happy
 [TOC]
 
 ## Tools Utilized
- - [Alpine Linux]((https://alpinelinux.org/downloads/))
+ - [Alpine Linux](https://alpinelinux.org/downloads/)
  - Docker
  - [Docker Minecraft BDS by itzg](https://github.com/itzg/docker-minecraft-bedrock-server)
  - [ZeroTier Docker](https://github.com/zyclonite/zerotier-docker)
