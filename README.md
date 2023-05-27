@@ -18,7 +18,7 @@ Will probably make a dockerfile to fully create the env. when I have time. Happy
  - [ZeroTier Docker](https://github.com/zyclonite/zerotier-docker)
  - Cron (for scheduled backup run)
  - Local.d
- - [Google Drive CLI]((https://github.com/glotlabs/gdrive))
+ - [Google Drive CLI](https://github.com/glotlabs/gdrive)
  - Your favorite Hypervisor or native machine
 
 ## Work Diagram
