@@ -1,11 +1,9 @@
-# MC-BEDROCK-PORTABLE
-A Guide on how to create a slim portable environment for a Minecraft Bedrock Dedicated Server with automatic backups (gdrive).
+# Portable Minecraft BDS
+A short guide on how to create a slim portable virtual environment to host a MC BDS anywhere with automatic backup (*GDrive*).
 
 ### DISCLAIMER
-This probably isn't the most orthothox way of doing it, this is my own way to it. Happy Mining.
-
-### DISCLAIMER 2
-Will probably make a dockerfile to fully create the env. when I have time.
+This repo is for the sake of education mainly.
+Will probably make a dockerfile to fully create the env. when I have time. Happy Mining.
 
 **Table of Contents**
 
@@ -13,4 +11,15 @@ Will probably make a dockerfile to fully create the env. when I have time.
 
 [TOC]
 
-### Tools Utilized
+## Tools Utilized
+ - [Alpine Linux]((https://alpinelinux.org/downloads/))
+ - Docker
+ - [Docker Minecraft BDS by itzg](https://github.com/itzg/docker-minecraft-bedrock-server)
+ - [ZeroTier Docker](https://github.com/zyclonite/zerotier-docker)
+ - Cron (for scheduled backup run)
+ - Local.d
+ - [Google Drive CLI]((https://github.com/glotlabs/gdrive))
+ - Your favorite Hypervisor or native machine
+
+## Work Diagram
+![Diagram](/img/diagram_2.png)
